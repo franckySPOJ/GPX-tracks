@@ -8,4 +8,6 @@
 ## 8ème Luciolette 19-10-2017
 25km, 350mD+. De très beaux singles, très roulants en majorité.
 
+[Une petite vidéo pour l'ambiance](https://www.youtube.com/watch?v=r8QW1rsp89E)
+
 [Trace.gpx](https://github.com/franckySPOJ/GPX-tracks/blob/master/8%C3%A8me-Luciolette-25km-350D.gpx)
