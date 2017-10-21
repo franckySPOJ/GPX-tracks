@@ -1,7 +1,9 @@
 # GPX-tracks
 
-## [14ème nuitée lagardienne 22-09-2017](http://lesriders.over-blog.com/2017/09/la-nuitee-lagardienne-2017-record-battu.html)
+## 14ème nuitée lagardienne 22-09-2017
 25km, 400mD+. De très beaux singles, peu de passages roulants, mais plutôt de la belle caillasse.
+
+[Compte rendu sur le blog des riders de Lagarde](http://lesriders.over-blog.com/2017/09/la-nuitee-lagardienne-2017-record-battu.html)
 
 [Trace.gpx](https://github.com/franckySPOJ/GPX-tracks/blob/master/14%C3%A8me-Lagarde-25km-400D.gpx)
 
