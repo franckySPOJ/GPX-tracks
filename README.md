@@ -14,4 +14,5 @@
 
 [Trace.gpx](https://github.com/franckySPOJ/GPX-tracks/blob/master/8%C3%A8me-Luciolette-25km-350D.gpx)
 
-<a href="https://github.com/franckySPOJ/GPX-tracks/blob/master/8%C3%A8me-Luciolette-25km-350D.gpx" download="maTrace.gpx">hehe</a>
+[Trace.gpx](https://github.com/franckySPOJ/GPX-tracks/blob/master/8%C3%A8me-Luciolette-25km-350D.gpx){: .download}
+
