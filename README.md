@@ -14,6 +14,3 @@
 
 [Trace.gpx](https://github.com/franckySPOJ/GPX-tracks/blob/master/8%C3%A8me-Luciolette-25km-350D.gpx) (clic droit - enregistrer sous)
 
-<form method="get" action="https://github.com/franckySPOJ/GPX-tracks/blob/master/8%C3%A8me-Luciolette-25km-350D.gpx">
-   <button type="submit">Download!</button>
-</form>
